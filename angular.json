@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TDF"
+    }
+  },
+  "defaultProject": "TDF",
+  "cli": {
+    "analytics": "bd13fcab-3dce-44a6-bc18-9203f36b9327"
+  }
 }
